@@ -1,0 +1,3 @@
+[submodule "shopify-watch"]
+	path = shopify-watch
+	url = git@github.com:Cohesyve/shopify-watch.git
